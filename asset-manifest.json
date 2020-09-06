@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GameOanTuXi_ReactRedux/static/css/main.9a4220c3.chunk.css",
+    "main.js": "/GameOanTuXi_ReactRedux/static/js/main.b8017a37.chunk.js",
+    "main.js.map": "/GameOanTuXi_ReactRedux/static/js/main.b8017a37.chunk.js.map",
+    "runtime-main.js": "/GameOanTuXi_ReactRedux/static/js/runtime-main.5b80a3b4.js",
+    "runtime-main.js.map": "/GameOanTuXi_ReactRedux/static/js/runtime-main.5b80a3b4.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/GameOanTuXi_ReactRedux/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ca09037b.chunk.js": "/GameOanTuXi_ReactRedux/static/js/2.ca09037b.chunk.js",
+    "static/js/2.ca09037b.chunk.js.map": "/GameOanTuXi_ReactRedux/static/js/2.ca09037b.chunk.js.map",
+    "index.html": "/GameOanTuXi_ReactRedux/index.html",
+    "precache-manifest.44bc1a62f851aeec533e6ca0299fe6ab.js": "/GameOanTuXi_ReactRedux/precache-manifest.44bc1a62f851aeec533e6ca0299fe6ab.js",
+    "service-worker.js": "/GameOanTuXi_ReactRedux/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/GameOanTuXi_ReactRedux/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.9a4220c3.chunk.css.map": "/GameOanTuXi_ReactRedux/static/css/main.9a4220c3.chunk.css.map",
+    "static/js/2.ca09037b.chunk.js.LICENSE.txt": "/GameOanTuXi_ReactRedux/static/js/2.ca09037b.chunk.js.LICENSE.txt",
+    "static/media/BaiTapOanTuXi.css": "/GameOanTuXi_ReactRedux/static/media/bgGame.f0bb0ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b80a3b4.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ca09037b.chunk.js",
+    "static/css/main.9a4220c3.chunk.css",
+    "static/js/main.b8017a37.chunk.js"
+  ]
+}
